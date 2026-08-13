@@ -19,7 +19,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17075
+            "stars": 17076
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-07T17:44:46Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7843
+            "stars": 7844
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-11T16:20:38Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6486
+            "stars": 6488
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-07-31T04:40:44Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5591
+            "stars": 5593
           }
         },
         {
@@ -282,7 +282,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:34:53Z",
+            "last_commit": "2026-08-13T05:46:15Z",
             "owner": "krkn-chaos",
             "repo": "krkn",
             "stars": 486
@@ -584,7 +584,7 @@
                 "last_commit": "2026-07-27T03:15:26Z",
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3100
+                "stars": 3101
               }
             },
             {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:27.767Z",
+    "last_updated": "2026-08-13T07:03:56.642Z",
     "original_repository": "dastergon/awesome-chaos-engineering",
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
     "enhanced_repository": "enhansome/enhansome-chaos-engineering",
