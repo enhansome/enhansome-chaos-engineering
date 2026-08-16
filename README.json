@@ -61,7 +61,7 @@
             "last_commit": "2026-08-11T16:20:38Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6491
+            "stars": 6492
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2023-11-10T18:28:39Z",
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1976
+            "stars": 1977
           }
         },
         {
@@ -620,7 +620,7 @@
             "last_commit": "2018-12-18T09:29:22Z",
             "owner": "Netflix",
             "repo": "SimianArmy",
-            "stars": 7983
+            "stars": 7982
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:02:33.062Z",
+    "last_updated": "2026-08-16T06:03:38.122Z",
     "original_repository": "dastergon/awesome-chaos-engineering",
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
     "enhanced_repository": "enhansome/enhansome-chaos-engineering",
