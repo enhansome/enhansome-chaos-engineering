@@ -19,7 +19,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17079
+            "stars": 17082
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-04T07:02:30Z",
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12250
+            "stars": 12252
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-11T16:20:38Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6492
+            "stars": 6493
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-07-31T04:40:44Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5595
+            "stars": 5596
           }
         },
         {
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:03:38.122Z",
+    "last_updated": "2026-08-17T06:21:58.622Z",
     "original_repository": "dastergon/awesome-chaos-engineering",
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
     "enhanced_repository": "enhansome/enhansome-chaos-engineering",

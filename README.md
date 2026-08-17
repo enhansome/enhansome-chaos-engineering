@@ -147,12 +147,12 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Notable Tools
 
-* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,079 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,250 | 🐛 104 | 🌐 Go | 📅 2026-08-04 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,843 | 🐛 543 | 🌐 Go | 📅 2026-08-07 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
-* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,492 | 🐛 363 | 🌐 Python | 📅 2026-08-11 - An Easy to Use and Powerful Chaos Engineering Toolkit.
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,082 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,252 | 🐛 104 | 🌐 Go | 📅 2026-08-04 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,843 | 🐛 544 | 🌐 Go | 📅 2026-08-07 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,493 | 🐛 364 | 🌐 Python | 📅 2026-08-11 - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [orchestrator](https://github.com/github/orchestrator) ⚠️ Archived - MySQL replication topology management and HA.
-* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,595 | 🐛 414 | 🌐 Go | 📅 2026-07-31 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
+* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,596 | 🐛 414 | 🌐 Go | 📅 2026-07-31 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,063 | 🐛 25 | 🌐 Go | 📅 2026-08-12 - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
 * [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,165 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,018 | 🐛 3 | 🌐 Python | 📅 2026-08-09 - A chaos engineering toolkit to help you build confidence in your software system.
@@ -259,7 +259,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
-* [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,439 | 🐛 97 | 📅 2025-08-28 - A curated list of awesome Site Reliability and Production Engineering resources.
+* [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,442 | 🐛 97 | 📅 2025-08-28 - A curated list of awesome Site Reliability and Production Engineering resources.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Gremlin Blog](https://blog.gremlininc.com) - Blogs on Chaos Engineering from Gremlin Inc.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
@@ -308,4 +308,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
