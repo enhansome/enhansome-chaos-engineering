@@ -147,12 +147,12 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Notable Tools
 
-* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,083 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,261 | 🐛 104 | 🌐 Go | 📅 2026-08-04 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,082 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,262 | 🐛 105 | 🌐 Go | 📅 2026-08-04 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 * [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,846 | 🐛 550 | 🌐 Go | 📅 2026-08-18 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,494 | 🐛 365 | 🌐 Python | 📅 2026-08-17 - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [orchestrator](https://github.com/github/orchestrator) ⚠️ Archived - MySQL replication topology management and HA.
-* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,598 | 🐛 414 | 🌐 Go | 📅 2026-07-31 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
+* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,599 | 🐛 414 | 🌐 Go | 📅 2026-07-31 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,063 | 🐛 25 | 🌐 Go | 📅 2026-08-12 - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
 * [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,165 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,018 | 🐛 3 | 🌐 Python | 📅 2026-08-09 - A chaos engineering toolkit to help you build confidence in your software system.
