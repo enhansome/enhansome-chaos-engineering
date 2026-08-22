@@ -15,7 +15,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17083
+            "stars": 17085
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-04T07:02:30Z",
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12271
+            "stars": 12273
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T07:23:54Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7849
+            "stars": 7850
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T13:43:50Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6493
+            "stars": 6496
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-31T04:40:44Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5599
+            "stars": 5601
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T20:56:37Z",
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3063
+            "stars": 3064
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-19T15:17:10Z",
             "owner": "kube-burner",
             "repo": "kube-burner",
-            "stars": 787
+            "stars": 788
           }
         },
         {
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:18:56.539Z",
+    "last_updated": "2026-08-22T06:02:29.013Z",
     "original_repository": "dastergon/awesome-chaos-engineering",
     "original_repository_id": 98446777,
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
