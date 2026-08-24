@@ -30,7 +30,7 @@
             "last_commit": "2026-08-04T07:02:30Z",
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12275
+            "stars": 12278
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T07:23:54Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7852
+            "stars": 7853
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T13:43:50Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6497
+            "stars": 6498
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T20:56:37Z",
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3064
+            "stars": 3067
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-11-10T18:28:39Z",
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1977
+            "stars": 1979
           }
         },
         {
@@ -617,10 +617,10 @@
                 "archived": false,
                 "id": 54481074,
                 "language": "Go",
-                "last_commit": "2026-08-23T05:36:17Z",
+                "last_commit": "2026-08-24T03:17:33Z",
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3120
+                "stars": 3133
               }
             },
             {
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:15:28.421Z",
+    "last_updated": "2026-08-24T06:25:30.847Z",
     "original_repository": "dastergon/awesome-chaos-engineering",
     "original_repository_id": 98446777,
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
