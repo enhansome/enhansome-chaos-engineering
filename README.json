@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "The Road to Chaos - Velocity 2017- video",
+          "description": "& slides",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95337039,
+            "language": null,
+            "last_commit": "2019-10-27T21:01:21Z",
+            "owner": "norajones",
+            "repo": "Presentations",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Culture"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Chaos Engineering Bootcamp for O'Reilly Velocity 2017 - Slides",
+          "description": "& Source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92341453,
+            "language": "Shell",
+            "last_commit": "2018-06-24T21:56:40Z",
+            "owner": "tammybutow",
+            "repo": "chaosengineeringbootcamp",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "Education"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Chaos Monkey",
           "description": "A resiliency tool that helps applications tolerate random instance failures.",
           "children": [],
@@ -15,7 +57,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17086
+            "stars": 17087
           }
         },
         {
@@ -30,7 +72,7 @@
             "last_commit": "2026-08-04T07:02:30Z",
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12278
+            "stars": 12279
           }
         },
         {
@@ -45,7 +87,7 @@
             "last_commit": "2026-08-18T07:23:54Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7853
+            "stars": 7854
           }
         },
         {
@@ -60,7 +102,7 @@
             "last_commit": "2026-08-17T13:43:50Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6498
+            "stars": 6499
           }
         },
         {
@@ -90,7 +132,7 @@
             "last_commit": "2026-07-31T04:40:44Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5600
+            "stars": 5601
           }
         },
         {
@@ -150,7 +192,7 @@
             "last_commit": "2023-11-10T18:28:39Z",
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1979
+            "stars": 1980
           }
         },
         {
@@ -297,10 +339,10 @@
             "archived": false,
             "id": 257085677,
             "language": "Python",
-            "last_commit": "2026-08-20T14:41:24Z",
+            "last_commit": "2026-08-24T08:03:55Z",
             "owner": "krkn-chaos",
             "repo": "krkn",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -620,7 +662,7 @@
                 "last_commit": "2026-08-24T03:17:33Z",
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3133
+                "stars": 3134
               }
             },
             {
@@ -678,10 +720,52 @@
         }
       ],
       "title": "Retired tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Site Reliability Engineering resources",
+          "description": "A curated list of awesome Site Reliability and Production Engineering resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56103979,
+            "language": null,
+            "last_commit": "2025-08-28T14:43:14Z",
+            "owner": "dastergon",
+            "repo": "awesome-sre",
+            "stars": 13458
+          }
+        }
+      ],
+      "title": "Blogs & Newsletters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CNCF Chaos Engineering Working Group Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131206274,
+            "language": null,
+            "last_commit": "2020-05-15T14:36:02Z",
+            "owner": "chaoseng",
+            "repo": "wg-chaoseng",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Forums"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:25:30.847Z",
+    "last_updated": "2026-08-24T13:57:17.477Z",
     "original_repository": "dastergon/awesome-chaos-engineering",
     "original_repository_id": 98446777,
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
