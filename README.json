@@ -57,7 +57,7 @@
             "last_commit": "2025-01-06T08:37:10Z",
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17089
+            "stars": 17091
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-25T19:40:05Z",
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12283
+            "stars": 12285
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 206213815,
             "language": "Go",
-            "last_commit": "2026-08-18T07:23:54Z",
+            "last_commit": "2026-08-27T03:36:14Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7857
+            "stars": 7858
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-02-18T05:58:22Z",
             "owner": "openark",
             "repo": "orchestrator",
-            "stars": 5777
+            "stars": 5775
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-25T10:16:40Z",
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5602
+            "stars": 5603
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-12T20:56:37Z",
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3069
+            "stars": 3071
           }
         },
         {
@@ -659,7 +659,7 @@
                 "archived": false,
                 "id": 54481074,
                 "language": "Go",
-                "last_commit": "2026-08-24T03:17:33Z",
+                "last_commit": "2026-08-27T08:37:49Z",
                 "owner": "alexei-led",
                 "repo": "pumba",
                 "stars": 3137
@@ -736,7 +736,7 @@
             "last_commit": "2025-08-28T14:43:14Z",
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13460
+            "stars": 13462
           }
         }
       ],
@@ -765,9 +765,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:20:00.795Z",
-    "original_repository": "dastergon/awesome-chaos-engineering",
-    "original_repository_id": 98446777,
+    "last_updated": "2026-08-27T11:30:45.256Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 98446777,
+      "language": null,
+      "last_commit": "2023-12-28T19:30:06Z",
+      "owner": "dastergon",
+      "repo": "awesome-chaos-engineering",
+      "stars": 6642
+    },
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
     "enhanced_repository": "enhansome/enhansome-chaos-engineering",
     "enhanced_repository_description": null,
