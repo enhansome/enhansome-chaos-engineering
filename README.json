@@ -16,7 +16,8 @@
             "owner": "norajones",
             "repo": "Presentations",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         }
       ],
       "title": "Culture"
@@ -37,7 +38,8 @@
             "owner": "tammybutow",
             "repo": "chaosengineeringbootcamp",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         }
       ],
       "title": "Education"
@@ -58,7 +60,8 @@
             "owner": "Netflix",
             "repo": "chaosmonkey",
             "stars": 17091
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -72,8 +75,9 @@
             "last_commit": "2026-08-25T19:40:05Z",
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12286
-          }
+            "stars": 12288
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -87,8 +91,9 @@
             "last_commit": "2026-08-27T03:36:14Z",
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7858
-          }
+            "stars": 7859
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -102,8 +107,9 @@
             "last_commit": "2026-08-25T13:19:07Z",
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6508
-          }
+            "stars": 6510
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "openark",
             "repo": "orchestrator",
             "stars": 5775
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "litmuschaos",
             "repo": "litmus",
             "stars": 5603
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "asobti",
             "repo": "kube-monkey",
             "stars": 3072
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2024-08-20T22:12:53Z",
             "owner": "storax",
             "repo": "kubedoom",
-            "stars": 2166
-          }
+            "stars": 2167
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "chaostoolkit",
             "repo": "chaostoolkit",
             "stars": 2020
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "powerfulseal",
             "repo": "powerfulseal",
             "stars": 1981
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "linki",
             "repo": "chaoskube",
             "stars": 1934
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "lyft",
             "repo": "clutch",
             "stars": 1771
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "lucky-sideburn",
             "repo": "kubeinvaders",
             "stars": 1120
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "mefellows",
             "repo": "muxy",
             "stars": 827
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "kube-burner",
             "repo": "kube-burner",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "berkay-dincer",
             "repo": "kubethanos",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "jchiatt",
             "repo": "react-chaos",
             "stars": 586
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "lingrino",
             "repo": "go-fault",
             "stars": 555
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "osrg",
             "repo": "namazu",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -342,8 +363,9 @@
             "last_commit": "2026-08-25T19:50:11Z",
             "owner": "krkn-chaos",
             "repo": "krkn",
-            "stars": 492
-          }
+            "stars": 493
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "adhorn",
             "repo": "chaos-ssm-documents",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "amzn",
             "repo": "awsssmchaosrunner",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "mrwilson",
             "repo": "byte-monkey",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "target",
             "repo": "pod-reaper",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "LinkedInAttic",
             "repo": "simoorg",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "bbc",
             "repo": "chaos-lambda",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "bouncestorage",
             "repo": "chaos-http-proxy",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "adhorn",
             "repo": "aws-lambda-chaos-injection",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "gunnargrosch",
             "repo": "failure-lambda",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "xmatters",
             "repo": "cthulhu-chaos-testing",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "adhorn",
             "repo": "aws-chaos-scripts",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "ThalesGroup",
             "repo": "chaos-engine",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "nick-kanakis",
             "repo": "perses",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "strepsirrhini-army",
             "repo": "chaos-lemur",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "cppforlife",
             "repo": "turbulence-release",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "dcos-labs",
             "repo": "drax",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "outbrain-inc",
             "repo": "GomJabbar",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "jmspring",
             "repo": "chaos-dingo",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "u2386",
             "repo": "gorm-sqlchaos",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "aviadhahami",
             "repo": "vue-chaos",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "group",
@@ -662,8 +704,9 @@
                 "last_commit": "2026-08-27T08:37:49Z",
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3138
-              }
+                "stars": 3141
+              },
+              "first_seen": "2026-08-28T17:43:21.442Z"
             },
             {
               "node_type": "item",
@@ -678,7 +721,8 @@
                 "owner": "worstcase",
                 "repo": "blockade",
                 "stars": 911
-              }
+              },
+              "first_seen": "2026-08-28T17:43:21.442Z"
             }
           ]
         }
@@ -701,7 +745,8 @@
             "owner": "Netflix",
             "repo": "SimianArmy",
             "stars": 7981
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         },
         {
           "node_type": "item",
@@ -716,7 +761,8 @@
             "owner": "Optum",
             "repo": "ChaoSlingr",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         }
       ],
       "title": "Retired tools"
@@ -736,8 +782,9 @@
             "last_commit": "2025-08-28T14:43:14Z",
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13462
-          }
+            "stars": 13464
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         }
       ],
       "title": "Blogs & Newsletters"
@@ -758,14 +805,15 @@
             "owner": "chaoseng",
             "repo": "wg-chaoseng",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
         }
       ],
       "title": "Forums"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:50:27.243Z",
+    "last_updated": "2026-08-28T17:43:21.442Z",
     "original_repository_info": {
       "archived": false,
       "id": 98446777,
