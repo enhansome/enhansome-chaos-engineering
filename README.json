@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides from various conferences and speaking events on Chaos Engineering.",
+            "homepage": null,
             "id": 95337039,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-27T21:01:21Z",
+            "open_issues": 0,
             "owner": "norajones",
             "repo": "Presentations",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         }
@@ -32,12 +37,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chaos Engineering Bootcamp",
+            "homepage": null,
             "id": 92341453,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-06-24T21:56:40Z",
+            "open_issues": 0,
             "owner": "tammybutow",
             "repo": "chaosengineeringbootcamp",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "chaos",
+              "chaos-engineering"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         }
@@ -54,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+            "homepage": null,
             "id": 71297170,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-06T08:37:10Z",
+            "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17091
+            "stars": 17092,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -70,12 +88,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+            "homepage": "https://github.com/shopify/toxiproxy",
             "id": 23664475,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:40:05Z",
+            "open_issues": 103,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12288
+            "stars": 12288,
+            "topics": [
+              "chaos",
+              "down",
+              "go",
+              "is",
+              "omg",
+              "proxy",
+              "resiliency",
+              "tcp-proxy",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -86,12 +119,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chaos Engineering Platform for Kubernetes.",
+            "homepage": "https://chaos-mesh.org",
             "id": 206213815,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T03:36:14Z",
+            "open_issues": 550,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7859
+            "stars": 7859,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "chaos-experiments",
+              "chaos-mesh",
+              "chaos-testing",
+              "cloud-native",
+              "cncf",
+              "fault-injection",
+              "golang",
+              "kubernetes",
+              "microservices",
+              "operator",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -102,12 +154,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）",
+            "homepage": "https://chaosblade.io",
             "id": 175192867,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T13:19:07Z",
+            "open_issues": 365,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6510
+            "stars": 6511,
+            "topics": [
+              "alibaba",
+              "chaos-engineering",
+              "chaos-testing",
+              "fault",
+              "fault-injection",
+              "kubernetes",
+              "microservice",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -118,12 +184,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MySQL replication topology management and HA",
+            "homepage": null,
             "id": 75190736,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-18T05:58:22Z",
+            "open_issues": 419,
             "owner": "openark",
             "repo": "orchestrator",
-            "stars": 5775
+            "stars": 5775,
+            "topics": [
+              "high-availability",
+              "management-system",
+              "mysql",
+              "replication"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -134,12 +210,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+            "homepage": "https://litmuschaos.io",
             "id": 85039965,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T10:16:40Z",
+            "open_issues": 398,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5603
+            "stars": 5603,
+            "topics": [
+              "chaos-engineering",
+              "chaos-experiments",
+              "chaos-testing",
+              "chaoshub",
+              "cloud-native",
+              "cncf",
+              "devops",
+              "fault-injection",
+              "fault-simulation",
+              "golang",
+              "google-summer-of-code",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "lfx",
+              "litmuschaos",
+              "operator-sdk",
+              "reliability-engineering",
+              "resilience-testing",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -150,12 +252,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of Netflix's Chaos Monkey for Kubernetes clusters",
+            "homepage": null,
             "id": 75889576,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T20:56:37Z",
+            "open_issues": 25,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3072
+            "stars": 3072,
+            "topics": [
+              "chaos-monkey",
+              "go",
+              "kubernetes",
+              "netflix-chaos-monkey"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -166,12 +278,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kill Kubernetes pods by playing Id's DOOM!",
+            "homepage": null,
             "id": 205724327,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-20T22:12:53Z",
+            "open_issues": 4,
             "owner": "storax",
             "repo": "kubedoom",
-            "stars": 2167
+            "stars": 2167,
+            "topics": [
+              "c",
+              "docker",
+              "dockerfile",
+              "doom",
+              "go",
+              "golang",
+              "kind",
+              "kubectl",
+              "kubernetes",
+              "pods"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -182,12 +310,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Engineering Toolkit & Orchestration for Developers",
+            "homepage": "https://chaostoolkit.org",
             "id": 104656275,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T19:56:48Z",
+            "open_issues": 3,
             "owner": "chaostoolkit",
             "repo": "chaostoolkit",
-            "stars": 2020
+            "stars": 2020,
+            "topics": [
+              "automation",
+              "chaos-engineering",
+              "chaostoolkit",
+              "devops-tools",
+              "reliability",
+              "reliability-engineering",
+              "resiliency",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -198,12 +340,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful testing tool for Kubernetes clusters.",
+            "homepage": null,
             "id": 113219762,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-10T18:28:39Z",
+            "open_issues": 55,
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1981
+            "stars": 1981,
+            "topics": [
+              "chaos-engineering",
+              "hacktoberfest",
+              "kubernetes",
+              "openstack",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -214,12 +367,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chaoskube periodically kills random pods in your Kubernetes cluster.",
+            "homepage": null,
             "id": 72786190,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-01T07:02:34Z",
+            "open_issues": 34,
             "owner": "linki",
             "repo": "chaoskube",
-            "stars": 1934
+            "stars": 1934,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "chaos-monkey",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -230,12 +393,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Extensible platform for infrastructure management",
+            "homepage": "https://clutch.sh",
             "id": 259751605,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-13T15:21:49Z",
+            "open_issues": 106,
             "owner": "lyft",
             "repo": "clutch",
-            "stars": 1771
+            "stars": 1771,
+            "topics": [
+              "developer-portal",
+              "infrastructure-management",
+              "lyft"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -246,12 +418,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gamified Chaos Engineering Tool for Kubernetes",
+            "homepage": null,
             "id": 178379053,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T07:41:31Z",
+            "open_issues": 0,
             "owner": "lucky-sideburn",
             "repo": "kubeinvaders",
-            "stars": 1120
+            "stars": 1120,
+            "topics": [
+              "aliens",
+              "chaos",
+              "chaos-engineering",
+              "game",
+              "hacktoberfest",
+              "kube-linter",
+              "kubeinvaders",
+              "kubeinvaders-container",
+              "kubernetes",
+              "openshift",
+              "pods",
+              "workstation"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -262,12 +452,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos engineering tool for simulating real-world distributed system failures",
+            "homepage": null,
             "id": 41590877,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-01-13T12:31:12Z",
+            "open_issues": 8,
             "owner": "mefellows",
             "repo": "muxy",
-            "stars": 827
+            "stars": 827,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "golang",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "proxy",
+              "resilience",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -278,12 +482,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes performance and scale test orchestration framework written in golang",
+            "homepage": "https://kube-burner.github.io/kube-burner/",
             "id": 292393392,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T15:17:10Z",
+            "open_issues": 25,
             "owner": "kube-burner",
             "repo": "kube-burner",
-            "stars": 788
+            "stars": 788,
+            "topics": [
+              "client-go",
+              "containers",
+              "elasticsearch",
+              "golang",
+              "kubernetes",
+              "load-testing",
+              "performance",
+              "performance-testing",
+              "prometheus",
+              "scale"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -294,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kills half of your randomly selected kubernetes pods.",
+            "homepage": null,
             "id": 224645668,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-06-09T10:55:49Z",
+            "open_issues": 0,
             "owner": "berkay-dincer",
             "repo": "kubethanos",
-            "stars": 626
+            "stars": 626,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -310,12 +535,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Engineering for your React apps.",
+            "homepage": null,
             "id": 187712566,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T05:49:07Z",
+            "open_issues": 34,
             "owner": "jchiatt",
             "repo": "react-chaos",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "chaos-engineering",
+              "chaos-theory",
+              "react",
+              "ui-testing",
+              "ux-testing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -326,12 +562,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "go fault injection library",
+            "homepage": "https://seanlingren.com",
             "id": 263964128,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:51:32Z",
+            "open_issues": 1,
             "owner": "lingrino",
             "repo": "go-fault",
-            "stars": 555
+            "stars": 555,
+            "topics": [
+              "gh-go"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -342,12 +585,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":fish: 鯰: Programmable fuzzy scheduler for testing distributed systems",
+            "homepage": "http://osrg.github.io/namazu",
             "id": 26900441,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-24T17:26:41Z",
+            "open_issues": 15,
             "owner": "osrg",
             "repo": "namazu",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "flaky-tests",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -358,12 +609,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.",
+            "homepage": "https://krkn-chaos.dev",
             "id": 257085677,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T19:50:11Z",
+            "open_issues": 138,
             "owner": "krkn-chaos",
             "repo": "krkn",
-            "stars": 493
+            "stars": 494,
+            "topics": [
+              "chaos-engineering",
+              "containers",
+              "kubernetes",
+              "performance",
+              "reliability",
+              "resiliency",
+              "scalability",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -374,12 +639,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of AWS SSM Documents to perform Chaos Engineering experiments",
+            "homepage": null,
             "id": 200860173,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-23T17:24:40Z",
+            "open_issues": 1,
             "owner": "adhorn",
             "repo": "chaos-ssm-documents",
-            "stars": 272
+            "stars": 272,
+            "topics": [
+              "amazon-web-services",
+              "aws",
+              "aws-ec2",
+              "chaos",
+              "chaos-engineering",
+              "chaos-monkey",
+              "chaos-testing",
+              "software-engineering",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -390,12 +670,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazon's light-weight library for chaos engineering on AWS. It can be used for EC2 and ECS (with EC2 launch type).",
+            "homepage": null,
             "id": 270739077,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-27T21:05:30Z",
+            "open_issues": 0,
             "owner": "amzn",
             "repo": "awsssmchaosrunner",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "aws",
+              "aws-fis",
+              "aws-ssm",
+              "chaos-engineering",
+              "ec2",
+              "ecs",
+              "failure-injection",
+              "fault-injection-simulator",
+              "kotlin",
+              "ssm"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -406,12 +702,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":monkey: Bytecode-level fault injection for the JVM.",
+            "homepage": null,
             "id": 59861017,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2020-10-13T06:42:59Z",
+            "open_issues": 3,
             "owner": "mrwilson",
             "repo": "byte-monkey",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "chaos-engineering",
+              "chaos-monkey",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -422,12 +727,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rule based pod killing kubernetes controller",
+            "homepage": null,
             "id": 81842229,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-29T12:51:06Z",
+            "open_issues": 1,
             "owner": "target",
             "repo": "pod-reaper",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "chaos",
+              "go",
+              "kubernetes",
+              "resiliency"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -438,12 +753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Failure inducer framework",
+            "homepage": "https://github.com/linkedin/simoorg/blob/master/docs/user_guide.md",
             "id": 40511000,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-12-27T14:34:06Z",
+            "open_issues": 13,
             "owner": "LinkedInAttic",
             "repo": "simoorg",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -454,12 +774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Randomly terminate ASG instances during business hours",
+            "homepage": null,
             "id": 47708500,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-10T09:34:39Z",
+            "open_issues": 0,
             "owner": "bbc",
             "repo": "chaos-lambda",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -470,12 +795,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduce failures into HTTP requests via a proxy server",
+            "homepage": null,
             "id": 32654483,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T18:12:05Z",
+            "open_issues": 6,
             "owner": "bouncestorage",
             "repo": "chaos-http-proxy",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "chaos",
+              "http-proxy"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -486,12 +819,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Injection library for AWS Lambda",
+            "homepage": null,
             "id": 196968044,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-23T19:37:50Z",
+            "open_issues": 9,
             "owner": "adhorn",
             "repo": "aws-lambda-chaos-injection",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "amazon-web-services",
+              "aws",
+              "chaos-engineering",
+              "chaos-monkey",
+              "lambda-functions",
+              "serveless",
+              "sre",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -502,12 +849,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "failure-lambda lets you inject faults into AWS Lambda functions to test how they behave under real-world failure conditions.",
+            "homepage": "https://gunnargrosch.com",
             "id": 229837364,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:19:04Z",
+            "open_issues": 7,
             "owner": "gunnargrosch",
             "repo": "failure-lambda",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "aws",
+              "chaos",
+              "chaosengineering",
+              "failure",
+              "failure-injection",
+              "fault-injection",
+              "lambda"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -518,12 +878,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cthulhu is a Chaos Engineering tool that helps evaluating the resiliency of microservice systems. It does that by simulating various disaster scenarios against a target infrastructure in a data-driven manner.",
+            "homepage": "https://www.xmatters.com",
             "id": 177867118,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-09T22:32:14Z",
+            "open_issues": 0,
             "owner": "xmatters",
             "repo": "cthulhu-chaos-testing",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -534,12 +899,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED  Collection of python scripts to run failure injection on AWS infrastructure",
+            "homepage": null,
             "id": 221657751,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-18T01:16:45Z",
+            "open_issues": 2,
             "owner": "adhorn",
             "repo": "aws-chaos-scripts",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "amazon-web-services",
+              "aws",
+              "chaos-engineering",
+              "chaos-monkey",
+              "deprecated",
+              "software-engineering",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -550,12 +928,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Chaos Engine is a tool that is designed to intermittently destroy or degrade application resources running in cloud based infrastructure. These events are designed to occur while the appropriate resources are available to resolve the issue if the platform fails to do so on it's own.",
+            "homepage": "https://thalesgroup.github.io/chaos-engine/",
             "id": 190168097,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-12T09:11:29Z",
+            "open_issues": 4,
             "owner": "ThalesGroup",
             "repo": "chaos-engine",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "chaos-engine",
+              "cloud-platform",
+              "faults"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -566,12 +953,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A project to cause (controlled) destruction on your jvm application ",
+            "homepage": null,
             "id": 180834808,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-08-02T04:34:09Z",
+            "open_issues": 0,
             "owner": "nick-kanakis",
             "repo": "perses",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "chaos-engineering",
+              "jvm"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -582,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adaptation of the Chaos Monkey concept to BOSH releases",
+            "homepage": null,
             "id": 21897983,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-10T20:59:40Z",
+            "open_issues": 3,
             "owner": "strepsirrhini-army",
             "repo": "chaos-lemur",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -598,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turbulence release is used for injecting failure scenarios into any BOSH deployment. ",
+            "homepage": null,
             "id": 34552710,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-13T18:01:26Z",
+            "open_issues": 12,
             "owner": "cppforlife",
             "repo": "turbulence-release",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -614,12 +1019,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DC/OS Resilience Automated Xenodiagnosis tool",
+            "homepage": null,
             "id": 60954916,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-10T09:04:37Z",
+            "open_issues": 5,
             "owner": "dcos-labs",
             "repo": "drax",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "dcos",
+              "dcos-networking-guild"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -630,12 +1043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Monkey for your private cloud",
+            "homepage": null,
             "id": 64206550,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-10T11:20:47Z",
+            "open_issues": 8,
             "owner": "outbrain-inc",
             "repo": "GomJabbar",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -646,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monkey and Lemur are taken, so Chaos Dingo it is.  A tool to mess with Azure services leveraging the Azure NodeJS sdks.",
+            "homepage": null,
             "id": 48773101,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-05T20:44:36Z",
+            "open_issues": 5,
             "owner": "jmspring",
             "repo": "chaos-dingo",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -662,12 +1085,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GORM SQLChaos manipulates DML at program runtime based on gorm",
+            "homepage": null,
             "id": 401103925,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-09-17T01:22:21Z",
+            "open_issues": 1,
             "owner": "u2386",
             "repo": "gorm-sqlchaos",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "golang",
+              "gorm",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -678,12 +1112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A vue chaos-generating component",
+            "homepage": null,
             "id": 302317027,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-11T22:21:02Z",
+            "open_issues": 0,
             "owner": "aviadhahami",
             "repo": "vue-chaos",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -699,12 +1138,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chaos testing, network emulation, and stress testing tool for containers",
+                "homepage": null,
                 "id": 54481074,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T08:37:49Z",
+                "open_issues": 3,
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3141
+                "stars": 3141,
+                "topics": [
+                  "chaos",
+                  "chaos-engineering",
+                  "chaos-monkey",
+                  "chaos-testing",
+                  "containerd",
+                  "docker",
+                  "fault-injection",
+                  "golang",
+                  "kubernetes",
+                  "network-emulator",
+                  "podman",
+                  "podman-container",
+                  "site-reliability-engineering",
+                  "stress-ng",
+                  "stress-testing",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:21.442Z"
             },
@@ -715,12 +1177,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker-based utility for testing network failures and partitions in distributed applications",
+                "homepage": "http://blockade.readthedocs.org",
                 "id": 16741340,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-29T17:53:14Z",
+                "open_issues": 27,
                 "owner": "worstcase",
                 "repo": "blockade",
-                "stars": 911
+                "stars": 911,
+                "topics": [
+                  "chaos",
+                  "chaos-monkey",
+                  "distributed-systems",
+                  "docker",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:21.442Z"
             }
@@ -739,12 +1212,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+            "homepage": null,
             "id": 4931659,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-18T09:29:22Z",
+            "open_issues": 43,
             "owner": "Netflix",
             "repo": "SimianArmy",
-            "stars": 7981
+            "stars": 7981,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         },
@@ -755,12 +1233,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ChaoSlingr: Introducing Security into Chaos Testing",
+            "homepage": null,
             "id": 178004346,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-03T15:41:37Z",
+            "open_issues": 0,
             "owner": "Optum",
             "repo": "ChaoSlingr",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "deprecated-repo"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         }
@@ -777,12 +1262,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Site Reliability and Production Engineering resources.",
+            "homepage": "https://sre.xyz",
             "id": 56103979,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:43:14Z",
+            "open_issues": 101,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13464
+            "stars": 13465,
+            "topics": [
+              "alerting",
+              "availability",
+              "awesome",
+              "awesome-list",
+              "capacity-planning",
+              "devops",
+              "incident-response",
+              "list",
+              "monitoring",
+              "on-call",
+              "post-mortem",
+              "postmortem",
+              "production",
+              "reliability",
+              "reliability-engineering",
+              "scalability",
+              "service-level-agreement",
+              "site-reliability",
+              "site-reliability-engineering",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         }
@@ -799,12 +1310,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Engineering Working Group",
+            "homepage": null,
             "id": 131206274,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-05-15T14:36:02Z",
+            "open_issues": 3,
             "owner": "chaoseng",
             "repo": "wg-chaoseng",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "chaos"
+            ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
         }
@@ -813,15 +1331,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:21.442Z",
+    "last_updated": "2026-08-29T04:14:05.050Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Chaos Engineering resources.",
+      "homepage": null,
       "id": 98446777,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-28T19:30:06Z",
+      "open_issues": 72,
       "owner": "dastergon",
       "repo": "awesome-chaos-engineering",
-      "stars": 6642
+      "stars": 6642,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chaos",
+        "chaos-community",
+        "chaos-engineering",
+        "chaos-monkey",
+        "chaos-testing",
+        "netflix-chaos-monkey",
+        "resilience",
+        "simian-army",
+        "site-reliability-engineering"
+      ]
     },
     "original_repository_sha": "1da63559c6f31abfa9ecfc34cdea7ba0e61e43ed",
     "enhanced_repository": "enhansome/enhansome-chaos-engineering",
