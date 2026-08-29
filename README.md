@@ -149,7 +149,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,092 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
 * [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,288 | 🐛 103 | 🌐 Go | 📅 2026-08-25 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,859 | 🐛 550 | 🌐 Go | 📅 2026-08-27 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,859 | 🐛 548 | 🌐 Go | 📅 2026-08-27 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,511 | 🐛 365 | 🌐 Python | 📅 2026-08-25 - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [orchestrator](https://github.com/github/orchestrator) ⚠️ Archived - MySQL replication topology management and HA.
 * [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,603 | 🐛 398 | 🌐 Go | 📅 2026-08-25 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
