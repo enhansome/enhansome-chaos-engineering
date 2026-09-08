@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17099,
+            "stars": 17102,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -97,7 +97,7 @@
             "open_issues": 109,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12309,
+            "stars": 12314,
             "topics": [
               "chaos",
               "down",
@@ -128,7 +128,7 @@
             "open_issues": 544,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7879,
+            "stars": 7880,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -160,10 +160,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T13:19:07Z",
-            "open_issues": 365,
+            "open_issues": 366,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6507,
+            "stars": 6509,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -216,10 +216,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T10:16:40Z",
-            "open_issues": 401,
+            "open_issues": 398,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5606,
+            "stars": 5607,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -261,7 +261,7 @@
             "open_issues": 25,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3076,
+            "stars": 3078,
             "topics": [
               "chaos-monkey",
               "go",
@@ -567,11 +567,11 @@
             "id": 263964128,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T07:56:44Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-07T17:04:30Z",
+            "open_issues": 1,
             "owner": "lingrino",
             "repo": "go-fault",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "gh-go"
             ]
@@ -1271,7 +1271,7 @@
             "open_issues": 105,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13485,
+            "stars": 13487,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:45:11.801Z",
+    "last_updated": "2026-09-08T10:06:22.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
@@ -1343,7 +1343,7 @@
       "open_issues": 73,
       "owner": "dastergon",
       "repo": "awesome-chaos-engineering",
-      "stars": 6646,
+      "stars": 6647,
       "topics": [
         "awesome",
         "awesome-list",
