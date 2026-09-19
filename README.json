@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17137,
+            "stars": 17138,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -128,7 +128,7 @@
             "open_issues": 546,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7903,
+            "stars": 7906,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -159,11 +159,11 @@
             "id": 175192867,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T05:38:21Z",
-            "open_issues": 370,
+            "last_commit": "2026-09-19T05:38:37Z",
+            "open_issues": 371,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6524,
+            "stars": 6519,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -193,7 +193,7 @@
             "open_issues": 419,
             "owner": "openark",
             "repo": "orchestrator",
-            "stars": 5774,
+            "stars": 5773,
             "topics": [
               "high-availability",
               "management-system",
@@ -216,10 +216,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T05:22:54Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5615,
+            "stars": 5616,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -261,7 +261,7 @@
             "open_issues": 25,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3077,
+            "stars": 3079,
             "topics": [
               "chaos-monkey",
               "go",
@@ -349,7 +349,7 @@
             "open_issues": 55,
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1983,
+            "stars": 1984,
             "topics": [
               "chaos-engineering",
               "hacktoberfest",
@@ -427,7 +427,7 @@
             "open_issues": 0,
             "owner": "lucky-sideburn",
             "repo": "kubeinvaders",
-            "stars": 1124,
+            "stars": 1125,
             "topics": [
               "aliens",
               "chaos",
@@ -591,7 +591,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T12:58:56Z",
-            "open_issues": 138,
+            "open_issues": 139,
             "owner": "krkn-chaos",
             "repo": "krkn",
             "stars": 503,
@@ -1147,7 +1147,7 @@
                 "open_issues": 7,
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3153,
+                "stars": 3157,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1221,7 +1221,7 @@
             "open_issues": 43,
             "owner": "Netflix",
             "repo": "SimianArmy",
-            "stars": 7979,
+            "stars": 7978,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -1268,10 +1268,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:43:14Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13522,
+            "stars": 13526,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T10:04:02.336Z",
+    "last_updated": "2026-09-19T09:44:50.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
