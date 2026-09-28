@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17151,
+            "stars": 17153,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -97,7 +97,7 @@
             "open_issues": 108,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12362,
+            "stars": 12364,
             "topics": [
               "chaos",
               "down",
@@ -128,7 +128,7 @@
             "open_issues": 546,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7916,
+            "stars": 7917,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -163,7 +163,7 @@
             "open_issues": 373,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6522,
+            "stars": 6523,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -315,11 +315,11 @@
             "id": 104656275,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-09T19:56:48Z",
+            "last_commit": "2026-09-27T19:26:30Z",
             "open_issues": 3,
             "owner": "chaostoolkit",
             "repo": "chaostoolkit",
-            "stars": 2029,
+            "stars": 2030,
             "topics": [
               "automation",
               "chaos-engineering",
@@ -591,7 +591,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T20:06:16Z",
-            "open_issues": 143,
+            "open_issues": 144,
             "owner": "krkn-chaos",
             "repo": "krkn",
             "stars": 506,
@@ -1147,7 +1147,7 @@
                 "open_issues": 10,
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3173,
+                "stars": 3174,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1271,7 +1271,7 @@
             "open_issues": 112,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13628,
+            "stars": 13643,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:48:55.427Z",
+    "last_updated": "2026-09-28T12:01:31.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
