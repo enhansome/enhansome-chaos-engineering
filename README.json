@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17163,
+            "stars": 17165,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -219,7 +219,7 @@
             "open_issues": 390,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5626,
+            "stars": 5701,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -1271,7 +1271,7 @@
             "open_issues": 113,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13678,
+            "stars": 13679,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:50.258Z",
+    "last_updated": "2026-10-03T10:40:16.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
