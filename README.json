@@ -97,7 +97,7 @@
             "open_issues": 109,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12382,
+            "stars": 12384,
             "topics": [
               "chaos",
               "down",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:50:02.153Z",
+    "last_updated": "2026-10-06T12:14:38.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
