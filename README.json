@@ -97,7 +97,7 @@
             "open_issues": 109,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12384,
+            "stars": 12389,
             "topics": [
               "chaos",
               "down",
@@ -128,7 +128,7 @@
             "open_issues": 535,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7929,
+            "stars": 7931,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -193,7 +193,7 @@
             "open_issues": 419,
             "owner": "openark",
             "repo": "orchestrator",
-            "stars": 5774,
+            "stars": 5773,
             "topics": [
               "high-availability",
               "management-system",
@@ -216,10 +216,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T12:23:35Z",
-            "open_issues": 392,
+            "open_issues": 396,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5726,
+            "stars": 5725,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -319,7 +319,7 @@
             "open_issues": 3,
             "owner": "chaostoolkit",
             "repo": "chaostoolkit",
-            "stars": 2031,
+            "stars": 2030,
             "topics": [
               "automation",
               "chaos-engineering",
@@ -1271,7 +1271,7 @@
             "open_issues": 114,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13703,
+            "stars": 13709,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:14:38.093Z",
+    "last_updated": "2026-10-07T12:03:33.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
