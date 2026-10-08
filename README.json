@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17164,
+            "stars": 17165,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -93,11 +93,11 @@
             "id": 23664475,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:11:22Z",
-            "open_issues": 109,
+            "last_commit": "2026-10-07T20:54:40Z",
+            "open_issues": 100,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12389,
+            "stars": 12393,
             "topics": [
               "chaos",
               "down",
@@ -128,7 +128,7 @@
             "open_issues": 535,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7931,
+            "stars": 7933,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -159,8 +159,8 @@
             "id": 175192867,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T22:28:06Z",
-            "open_issues": 373,
+            "last_commit": "2026-10-08T08:53:28Z",
+            "open_issues": 355,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
             "stars": 6523,
@@ -219,7 +219,7 @@
             "open_issues": 396,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5725,
+            "stars": 5727,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -349,7 +349,7 @@
             "open_issues": 55,
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "chaos-engineering",
               "hacktoberfest",
@@ -427,7 +427,7 @@
             "open_issues": 0,
             "owner": "lucky-sideburn",
             "repo": "kubeinvaders",
-            "stars": 1127,
+            "stars": 1128,
             "topics": [
               "aliens",
               "chaos",
@@ -590,8 +590,8 @@
             "id": 257085677,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:55:14Z",
-            "open_issues": 136,
+            "last_commit": "2026-10-07T19:19:20Z",
+            "open_issues": 137,
             "owner": "krkn-chaos",
             "repo": "krkn",
             "stars": 505,
@@ -1268,10 +1268,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:43:14Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13709,
+            "stars": 13710,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T12:03:33.026Z",
+    "last_updated": "2026-10-08T12:15:39.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
