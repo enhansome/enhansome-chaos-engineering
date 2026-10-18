@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17178,
+            "stars": 17179,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -97,7 +97,7 @@
             "open_issues": 91,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12424,
+            "stars": 12426,
             "topics": [
               "chaos",
               "down",
@@ -125,10 +125,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T14:52:05Z",
-            "open_issues": 514,
+            "open_issues": 508,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7940,
+            "stars": 7942,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -163,7 +163,7 @@
             "open_issues": 352,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6463,
+            "stars": 6464,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -591,7 +591,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T15:19:41Z",
-            "open_issues": 145,
+            "open_issues": 147,
             "owner": "krkn-chaos",
             "repo": "krkn",
             "stars": 509,
@@ -1221,7 +1221,7 @@
             "open_issues": 43,
             "owner": "Netflix",
             "repo": "SimianArmy",
-            "stars": 7978,
+            "stars": 7977,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -1271,7 +1271,7 @@
             "open_issues": 116,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13727,
+            "stars": 13728,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:43:13.285Z",
+    "last_updated": "2026-10-18T09:55:36.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
