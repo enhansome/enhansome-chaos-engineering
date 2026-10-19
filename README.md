@@ -147,10 +147,10 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Notable Tools
 
-* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,179 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,426 | 🐛 91 | 🌐 Go | 📅 2026-10-14 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,942 | 🐛 508 | 🌐 Go | 📅 2026-10-16 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
-* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,464 | 🐛 352 | 🌐 Python | 📅 2026-10-15 - An Easy to Use and Powerful Chaos Engineering Toolkit.
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,182 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,429 | 🐛 90 | 🌐 Go | 📅 2026-10-14 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,946 | 🐛 506 | 🌐 Go | 📅 2026-10-16 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,463 | 🐛 352 | 🌐 Python | 📅 2026-10-15 - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [orchestrator](https://github.com/github/orchestrator) ⚠️ Archived - MySQL replication topology management and HA.
 * [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,730 | 🐛 374 | 🌐 Go | 📅 2026-10-15 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,083 | 🐛 5 | 🌐 Go | 📅 2026-09-20 - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
@@ -165,7 +165,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) ⭐ 623 | 🐛 0 | 🌐 Go | 📅 2020-06-09 - Kills half of your randomly selected Kubernetes pods.
 * [react-chaos](https://github.com/jchiatt/react-chaos) ⭐ 586 | 🐛 34 | 🌐 TypeScript | 📅 2023-01-07 - A chaos engineering tool for your React apps
 * [go-fault](https://github.com/github/go-fault) ⭐ 556 | 🐛 1 | 🌐 Go | 📅 2026-09-07 - Fault injection middleware in Go
-* [Kraken](https://github.com/cloud-bulldozer/kraken) ⭐ 509 | 🐛 147 | 🌐 Python | 📅 2026-10-15 - Chaos and resiliency testing tool for Kubernetes and OpenShift.
+* [Kraken](https://github.com/cloud-bulldozer/kraken) ⭐ 509 | 🐛 151 | 🌐 Python | 📅 2026-10-19 - Chaos and resiliency testing tool for Kubernetes and OpenShift.
 * [Namazu](https://github.com/osrg/namazu) ⚠️ Archived - Programmable fuzzy scheduler for testing distributed systems.
 * [chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents) ⭐ 272 | 🐛 1 | 🌐 Python | 📅 2023-06-23 - Collection of AWS SSM Documents to perform Chaos Engineering experiments
 * [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) ⭐ 251 | 🐛 0 | 🌐 Kotlin | 📅 2023-10-27 - Amazon's light-weight open-source library for chaos engineering on AWS. It can be used for [EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html), [ECS (with EC2 launch type)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html) and [Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html).
@@ -192,7 +192,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
 * [MockLab](http://get.mocklab.io/) - API mocking (Service Virtualization) as a service which enables modeling real world faults and delays.
 * Chaos engineering for Docker:
-  * [Pumba](https://github.com/gaia-adm/pumba) ⭐ 3,179 | 🐛 11 | 🌐 Go | 📅 2026-10-15 - Chaos testing and network emulation for Docker containers (and clusters).
+  * [Pumba](https://github.com/gaia-adm/pumba) ⭐ 3,179 | 🐛 11 | 🌐 Go | 📅 2026-10-19 - Chaos testing and network emulation for Docker containers (and clusters).
   * [Blockade](https://github.com/worstcase/blockade) ⭐ 911 | 🐛 27 | 🌐 Python | 📅 2021-03-29 - Docker-based utility for testing network failures and partitions in distributed applications.
 * [Chaos Monkey for Spring Boot](https://codecentric.github.io/chaos-monkey-spring-boot/) - Injects latencies, exceptions, and terminations into Spring Boot applications
 * [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
@@ -308,4 +308,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
