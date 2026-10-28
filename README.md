@@ -147,32 +147,32 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Notable Tools
 
-* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,183 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,466 | 🐛 95 | 🌐 Go | 📅 2026-10-27 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,953 | 🐛 438 | 🌐 Go | 📅 2026-10-27 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
-* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,461 | 🐛 358 | 🌐 Python | 📅 2026-10-26 - An Easy to Use and Powerful Chaos Engineering Toolkit.
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,185 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,472 | 🐛 95 | 🌐 Go | 📅 2026-10-27 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,956 | 🐛 436 | 🌐 Go | 📅 2026-10-28 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,461 | 🐛 374 | 🌐 Python | 📅 2026-10-28 - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [orchestrator](https://github.com/github/orchestrator) ⚠️ Archived - MySQL replication topology management and HA.
-* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,733 | 🐛 377 | 🌐 Go | 📅 2026-10-27 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
+* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,737 | 🐛 377 | 🌐 Go | 📅 2026-10-27 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,082 | 🐛 5 | 🌐 Go | 📅 2026-09-20 - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
-* [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,173 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM.
-* [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,032 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - A chaos engineering toolkit to help you build confidence in your software system.
+* [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,171 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM.
+* [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,031 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - A chaos engineering toolkit to help you build confidence in your software system.
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) ⭐ 1,987 | 🐛 55 | 🌐 Python | 📅 2023-11-10 - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
-* [ChaosKube](https://github.com/linki/chaoskube) ⭐ 1,938 | 🐛 36 | 🌐 Go | 📅 2026-10-08 - chaoskube periodically kills random pods in your Kubernetes cluster.
+* [ChaosKube](https://github.com/linki/chaoskube) ⭐ 1,933 | 🐛 36 | 🌐 Go | 📅 2026-10-08 - chaoskube periodically kills random pods in your Kubernetes cluster.
 * [Chaos Experimentation Framework](https://github.com/lyft/clutch) ⚠️ Archived - An extensible platform for infrastructure management including Chaos Engineering
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) ⭐ 1,131 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-02 - Gamfied Chaos engineering tool for Kubernetes Clusters
 * [Muxy](https://github.com/mefellows/muxy/) ⭐ 827 | 🐛 8 | 🌐 Go | 📅 2021-01-13 - A chaos testing tool for simulating a real-world distributed system failures.
-* [kube-burner](https://github.com/cloud-bulldozer/kube-burner) ⭐ 802 | 🐛 10 | 🌐 Go | 📅 2026-10-26 - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
+* [kube-burner](https://github.com/cloud-bulldozer/kube-burner) ⭐ 803 | 🐛 10 | 🌐 Go | 📅 2026-10-26 - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) ⭐ 622 | 🐛 0 | 🌐 Go | 📅 2020-06-09 - Kills half of your randomly selected Kubernetes pods.
 * [react-chaos](https://github.com/jchiatt/react-chaos) ⭐ 586 | 🐛 34 | 🌐 TypeScript | 📅 2023-01-07 - A chaos engineering tool for your React apps
 * [go-fault](https://github.com/github/go-fault) ⭐ 556 | 🐛 1 | 🌐 Go | 📅 2026-09-07 - Fault injection middleware in Go
-* [Kraken](https://github.com/cloud-bulldozer/kraken) ⭐ 515 | 🐛 160 | 🌐 Python | 📅 2026-10-27 - Chaos and resiliency testing tool for Kubernetes and OpenShift.
+* [Kraken](https://github.com/cloud-bulldozer/kraken) ⭐ 515 | 🐛 155 | 🌐 Python | 📅 2026-10-27 - Chaos and resiliency testing tool for Kubernetes and OpenShift.
 * [Namazu](https://github.com/osrg/namazu) ⚠️ Archived - Programmable fuzzy scheduler for testing distributed systems.
 * [chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents) ⭐ 272 | 🐛 1 | 🌐 Python | 📅 2023-06-23 - Collection of AWS SSM Documents to perform Chaos Engineering experiments
 * [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) ⭐ 251 | 🐛 0 | 🌐 Kotlin | 📅 2023-10-27 - Amazon's light-weight open-source library for chaos engineering on AWS. It can be used for [EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html), [ECS (with EC2 launch type)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html) and [Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html).
 * [Byte-Monkey](https://github.com/mrwilson/byte-monkey) ⭐ 229 | 🐛 3 | 🌐 Java | 📅 2020-10-13 - Bytecode-level fault injection for the JVM. It works by instrumenting application code on the fly to deliberately introduce faults like exceptions and latency.
 * [Pod-Reaper](https://github.com/target/pod-reaper) ⚠️ Archived - A rules based pod killing container. Pod-Reaper was designed to kill pods that meet specific conditions that can be used for Chaos testing in Kubernetes.
 * [Simoorg](https://github.com/linkedin/simoorg) ⭐ 190 | 🐛 13 | 🌐 Python | 📅 2017-12-27 - Linkedin’s very own failure inducer framework.
-* [chaos-lambda](https://github.com/bbc/chaos-lambda) ⭐ 163 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - Randomly terminate ASG instances during business hours.
+* [chaos-lambda](https://github.com/bbc/chaos-lambda) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - Randomly terminate ASG instances during business hours.
 * [Chaos HTTP Proxy](https://github.com/bouncestorage/chaos-http-proxy) ⭐ 147 | 🐛 6 | 🌐 Java | 📅 2026-10-01 - Introduce failures into HTTP requests via a proxy server
 * [aws-lambda-chaos-injection](https://github.com/adhorn/aws-lambda-chaos-injection) ⭐ 101 | 🐛 9 | 🌐 Python | 📅 2024-12-23 - A library injecting chaos into AWS Lambda. It offers simple python decorators to do delay, exception and statusCode injection and a Class to add delay to any 3rd party dependencies.
 * [failure-lambda](https://github.com/gunnargrosch/failure-lambda) ⭐ 100 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16 - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
@@ -308,4 +308,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
