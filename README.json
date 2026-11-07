@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17226,
+            "stars": 17224,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -94,10 +94,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-27T07:02:39Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12493,
+            "stars": 12494,
             "topics": [
               "chaos",
               "down",
@@ -125,10 +125,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T03:29:48Z",
-            "open_issues": 420,
+            "open_issues": 421,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7968,
+            "stars": 7969,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -160,10 +160,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T09:21:31Z",
-            "open_issues": 376,
+            "open_issues": 379,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6463,
+            "stars": 6464,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -216,10 +216,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T05:22:19Z",
-            "open_issues": 404,
+            "open_issues": 410,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5739,
+            "stars": 5742,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -261,7 +261,7 @@
             "open_issues": 5,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3082,
+            "stars": 3081,
             "topics": [
               "chaos-monkey",
               "go",
@@ -349,7 +349,7 @@
             "open_issues": 55,
             "owner": "powerfulseal",
             "repo": "powerfulseal",
-            "stars": 1988,
+            "stars": 1987,
             "topics": [
               "chaos-engineering",
               "hacktoberfest",
@@ -376,7 +376,7 @@
             "open_issues": 39,
             "owner": "linki",
             "repo": "chaoskube",
-            "stars": 1933,
+            "stars": 1932,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -427,7 +427,7 @@
             "open_issues": 3,
             "owner": "lucky-sideburn",
             "repo": "kubeinvaders",
-            "stars": 1132,
+            "stars": 1131,
             "topics": [
               "aliens",
               "chaos",
@@ -491,7 +491,7 @@
             "open_issues": 12,
             "owner": "kube-burner",
             "repo": "kube-burner",
-            "stars": 803,
+            "stars": 804,
             "topics": [
               "client-go",
               "containers",
@@ -594,7 +594,7 @@
             "open_issues": 175,
             "owner": "krkn-chaos",
             "repo": "krkn",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "chaos-engineering",
               "containers",
@@ -923,31 +923,6 @@
         },
         {
           "node_type": "item",
-          "title": "Chaos Engine",
-          "description": "tool designed to intermittently destroy or degrade application resources running in cloud based infrastructure. Documentation",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The Chaos Engine is a tool that is designed to intermittently destroy or degrade application resources running in cloud based infrastructure. These events are designed to occur while the appropriate resources are available to resolve the issue if the platform fails to do so on it's own.",
-            "homepage": "https://thalesgroup.github.io/chaos-engine/",
-            "id": 190168097,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2024-03-12T09:11:29Z",
-            "open_issues": 4,
-            "owner": "ThalesGroup",
-            "repo": "chaos-engine",
-            "stars": 71,
-            "topics": [
-              "chaos-engine",
-              "cloud-platform",
-              "faults"
-            ]
-          },
-          "first_seen": "2026-08-28T17:43:21.442Z"
-        },
-        {
-          "node_type": "item",
           "title": "Perses",
           "description": "A project to cause (controlled) destruction to a JVM application.",
           "children": [],
@@ -966,6 +941,31 @@
             "topics": [
               "chaos-engineering",
               "jvm"
+            ]
+          },
+          "first_seen": "2026-08-28T17:43:21.442Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Chaos Engine",
+          "description": "tool designed to intermittently destroy or degrade application resources running in cloud based infrastructure. Documentation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "The Chaos Engine is a tool that is designed to intermittently destroy or degrade application resources running in cloud based infrastructure. These events are designed to occur while the appropriate resources are available to resolve the issue if the platform fails to do so on it's own.",
+            "homepage": "https://thalesgroup.github.io/chaos-engine/",
+            "id": 190168097,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2024-03-12T09:11:29Z",
+            "open_issues": 4,
+            "owner": "ThalesGroup",
+            "repo": "chaos-engine",
+            "stars": 70,
+            "topics": [
+              "chaos-engine",
+              "cloud-platform",
+              "faults"
             ]
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -1147,7 +1147,7 @@
                 "open_issues": 4,
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3184,
+                "stars": 3183,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1268,10 +1268,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:43:14Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13756,
+            "stars": 13758,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:16:01.102Z",
+    "last_updated": "2026-11-07T11:56:15.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
