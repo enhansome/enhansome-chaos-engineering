@@ -97,7 +97,7 @@
             "open_issues": 95,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12529,
+            "stars": 12532,
             "topics": [
               "chaos",
               "down",
@@ -124,11 +124,11 @@
             "id": 206213815,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T15:19:32Z",
-            "open_issues": 420,
+            "last_commit": "2026-11-16T05:27:42Z",
+            "open_issues": 421,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7989,
+            "stars": 7990,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -160,10 +160,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T03:54:48Z",
-            "open_issues": 380,
+            "open_issues": 381,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6474,
+            "stars": 6476,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -219,7 +219,7 @@
             "open_issues": 422,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5747,
+            "stars": 5746,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -261,7 +261,7 @@
             "open_issues": 5,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3080,
+            "stars": 3081,
             "topics": [
               "chaos-monkey",
               "go",
@@ -590,8 +590,8 @@
             "id": 257085677,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T16:05:36Z",
-            "open_issues": 175,
+            "last_commit": "2026-11-16T13:51:14Z",
+            "open_issues": 177,
             "owner": "krkn-chaos",
             "repo": "krkn",
             "stars": 522,
@@ -1143,11 +1143,11 @@
                 "id": 54481074,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T11:34:24Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-16T13:26:30Z",
+                "open_issues": 9,
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3185,
+                "stars": 3186,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1271,7 +1271,7 @@
             "open_issues": 124,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13781,
+            "stars": 13783,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:58:35.627Z",
+    "last_updated": "2026-11-16T14:01:31.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
@@ -1343,7 +1343,7 @@
       "open_issues": 75,
       "owner": "dastergon",
       "repo": "awesome-chaos-engineering",
-      "stars": 6697,
+      "stars": 6699,
       "topics": [
         "awesome",
         "awesome-list",
