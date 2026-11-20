@@ -148,24 +148,24 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 ## Notable Tools
 
 * [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,250 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,541 | 🐛 95 | 🌐 Go | 📅 2026-11-17 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,993 | 🐛 405 | 🌐 Go | 📅 2026-11-19 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
-* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,476 | 🐛 383 | 🌐 Python | 📅 2026-11-17 - An Easy to Use and Powerful Chaos Engineering Toolkit.
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,543 | 🐛 95 | 🌐 Go | 📅 2026-11-17 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,993 | 🐛 402 | 🌐 Go | 📅 2026-11-20 - Chaos Mesh is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+* [chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,477 | 🐛 383 | 🌐 Python | 📅 2026-11-17 - An Easy to Use and Powerful Chaos Engineering Toolkit.
 * [orchestrator](https://github.com/github/orchestrator) ⚠️ Archived - MySQL replication topology management and HA.
-* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,746 | 🐛 427 | 🌐 Go | 📅 2026-11-05 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
+* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,745 | 🐛 437 | 🌐 Go | 📅 2026-11-05 - Framework for Kubernetes environments that enables users to run test suites, capture logs, generate reports and perform chaos tests.
 * [kube-monkey](https://github.com/asobti/kube-monkey) ⭐ 3,082 | 🐛 5 | 🌐 Go | 📅 2026-09-20 - An implementation of Netflix's Chaos Monkey for Kubernetes clusters.
-* [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,175 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM.
-* [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,035 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - A chaos engineering toolkit to help you build confidence in your software system.
-* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) ⭐ 1,988 | 🐛 55 | 🌐 Python | 📅 2023-11-10 - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
-* [ChaosKube](https://github.com/linki/chaoskube) ⭐ 1,933 | 🐛 37 | 🌐 Go | 📅 2026-11-12 - chaoskube periodically kills random pods in your Kubernetes cluster.
+* [kubedoom](https://github.com/storax/kubedoom) ⭐ 2,174 | 🐛 4 | 🌐 C++ | 📅 2024-08-20 - Kill Kubernetes pods by playing Id's DOOM.
+* [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,034 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - A chaos engineering toolkit to help you build confidence in your software system.
+* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) ⭐ 1,987 | 🐛 55 | 🌐 Python | 📅 2023-11-10 - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down.
+* [ChaosKube](https://github.com/linki/chaoskube) ⭐ 1,933 | 🐛 35 | 🌐 Go | 📅 2026-11-19 - chaoskube periodically kills random pods in your Kubernetes cluster.
 * [Chaos Experimentation Framework](https://github.com/lyft/clutch) ⚠️ Archived - An extensible platform for infrastructure management including Chaos Engineering
-* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) ⭐ 1,131 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-02 - Gamfied Chaos engineering tool for Kubernetes Clusters
-* [Muxy](https://github.com/mefellows/muxy/) ⭐ 828 | 🐛 8 | 🌐 Go | 📅 2021-01-13 - A chaos testing tool for simulating a real-world distributed system failures.
-* [kube-burner](https://github.com/cloud-bulldozer/kube-burner) ⭐ 814 | 🐛 14 | 🌐 Go | 📅 2026-11-01 - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
+* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders) ⭐ 1,130 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-02 - Gamfied Chaos engineering tool for Kubernetes Clusters
+* [Muxy](https://github.com/mefellows/muxy/) ⭐ 827 | 🐛 8 | 🌐 Go | 📅 2021-01-13 - A chaos testing tool for simulating a real-world distributed system failures.
+* [kube-burner](https://github.com/cloud-bulldozer/kube-burner) ⭐ 814 | 🐛 15 | 🌐 Go | 📅 2026-11-19 - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 * [kubethanos](https://github.com/berkay-dincer/kubethanos) ⭐ 622 | 🐛 0 | 🌐 Go | 📅 2020-06-09 - Kills half of your randomly selected Kubernetes pods.
 * [react-chaos](https://github.com/jchiatt/react-chaos) ⭐ 586 | 🐛 34 | 🌐 TypeScript | 📅 2023-01-07 - A chaos engineering tool for your React apps
 * [go-fault](https://github.com/github/go-fault) ⭐ 556 | 🐛 1 | 🌐 Go | 📅 2026-11-19 - Fault injection middleware in Go
-* [Kraken](https://github.com/cloud-bulldozer/kraken) ⭐ 522 | 🐛 188 | 🌐 Python | 📅 2026-11-19 - Chaos and resiliency testing tool for Kubernetes and OpenShift.
+* [Kraken](https://github.com/cloud-bulldozer/kraken) ⭐ 522 | 🐛 188 | 🌐 Python | 📅 2026-11-20 - Chaos and resiliency testing tool for Kubernetes and OpenShift.
 * [Namazu](https://github.com/osrg/namazu) ⚠️ Archived - Programmable fuzzy scheduler for testing distributed systems.
 * [chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents) ⭐ 272 | 🐛 1 | 🌐 Python | 📅 2023-06-23 - Collection of AWS SSM Documents to perform Chaos Engineering experiments
 * [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) ⭐ 249 | 🐛 0 | 🌐 Kotlin | 📅 2023-10-27 - Amazon's light-weight open-source library for chaos engineering on AWS. It can be used for [EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html), [ECS (with EC2 launch type)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-ecs-ec2.html) and [Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-fargate.html).
@@ -175,7 +175,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [chaos-lambda](https://github.com/bbc/chaos-lambda) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - Randomly terminate ASG instances during business hours.
 * [Chaos HTTP Proxy](https://github.com/bouncestorage/chaos-http-proxy) ⭐ 147 | 🐛 6 | 🌐 Java | 📅 2026-11-01 - Introduce failures into HTTP requests via a proxy server
 * [aws-lambda-chaos-injection](https://github.com/adhorn/aws-lambda-chaos-injection) ⭐ 101 | 🐛 9 | 🌐 Python | 📅 2024-12-23 - A library injecting chaos into AWS Lambda. It offers simple python decorators to do delay, exception and statusCode injection and a Class to add delay to any 3rd party dependencies.
-* [failure-lambda](https://github.com/gunnargrosch/failure-lambda) ⭐ 100 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16 - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
+* [failure-lambda](https://github.com/gunnargrosch/failure-lambda) ⭐ 100 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - A small Node module for injecting failure into AWS Lambda using latency, exception, statuscode or diskspace.
 * [Cthulhu](https://github.com/xmatters/cthulhu-chaos-testing) ⭐ 93 | 🐛 0 | 🌐 Java | 📅 2019-10-09 - Chaos Engineering tool that helps evaluating the resiliency of microservice systems simulating various disaster scenarios against a target infrastructure in a data-driven manner.
 * [aws-chaos-scripts](https://github.com/adhorn/aws-chaos-scripts) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2023-10-18 - Collection of python scripts to run failure injection on AWS infrastructure
 * [Perses](https://github.com/nicolasmanic/perses) ⚠️ Archived - A project to cause (controlled) destruction to a JVM application.
@@ -192,8 +192,8 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 * [Wiremock](http://wiremock.org/) - API mocking (Service Virtualization) which enables modeling real world faults and delays
 * [MockLab](http://get.mocklab.io/) - API mocking (Service Virtualization) as a service which enables modeling real world faults and delays.
 * Chaos engineering for Docker:
-  * [Pumba](https://github.com/gaia-adm/pumba) ⭐ 3,187 | 🐛 9 | 🌐 Go | 📅 2026-11-16 - Chaos testing and network emulation for Docker containers (and clusters).
-  * [Blockade](https://github.com/worstcase/blockade) ⭐ 912 | 🐛 27 | 🌐 Python | 📅 2021-03-29 - Docker-based utility for testing network failures and partitions in distributed applications.
+  * [Pumba](https://github.com/gaia-adm/pumba) ⭐ 3,185 | 🐛 9 | 🌐 Go | 📅 2026-11-16 - Chaos testing and network emulation for Docker containers (and clusters).
+  * [Blockade](https://github.com/worstcase/blockade) ⭐ 911 | 🐛 27 | 🌐 Python | 📅 2021-03-29 - Docker-based utility for testing network failures and partitions in distributed applications.
 * [Chaos Monkey for Spring Boot](https://codecentric.github.io/chaos-monkey-spring-boot/) - Injects latencies, exceptions, and terminations into Spring Boot applications
 * [VMware Mangle](https://vmware.github.io/mangle/) - Orchestrating Chaos Engineering.
 * [Byteman](https://byteman.jboss.org/) - A Swiss Army Knife for Byte Code Manipulation.
@@ -256,7 +256,7 @@ A curated list of awesome [Chaos Engineering](http://principlesofchaos.org/) res
 
 ## Blogs & Newsletters
 
-* [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,791 | 🐛 124 | 📅 2025-08-28 - A curated list of awesome Site Reliability and Production Engineering resources.
+* [Site Reliability Engineering resources](https://github.com/dastergon/awesome-sre) ⭐ 13,792 | 🐛 124 | 📅 2025-08-28 - A curated list of awesome Site Reliability and Production Engineering resources.
 * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog) - Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
@@ -308,4 +308,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
