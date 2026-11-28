@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17273,
+            "stars": 17277,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -97,7 +97,7 @@
             "open_issues": 95,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12550,
+            "stars": 12552,
             "topics": [
               "chaos",
               "down",
@@ -124,11 +124,11 @@
             "id": 206213815,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T14:33:38Z",
-            "open_issues": 405,
+            "last_commit": "2026-11-28T10:39:19Z",
+            "open_issues": 401,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 8001,
+            "stars": 8000,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -163,7 +163,7 @@
             "open_issues": 386,
             "owner": "chaosblade-io",
             "repo": "chaosblade",
-            "stars": 6483,
+            "stars": 6482,
             "topics": [
               "alibaba",
               "chaos-engineering",
@@ -219,7 +219,7 @@
             "open_issues": 451,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5748,
+            "stars": 5749,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -261,7 +261,7 @@
             "open_issues": 5,
             "owner": "asobti",
             "repo": "kube-monkey",
-            "stars": 3084,
+            "stars": 3083,
             "topics": [
               "chaos-monkey",
               "go",
@@ -319,7 +319,7 @@
             "open_issues": 3,
             "owner": "chaostoolkit",
             "repo": "chaostoolkit",
-            "stars": 2034,
+            "stars": 2033,
             "topics": [
               "automation",
               "chaos-engineering",
@@ -624,7 +624,7 @@
             "open_issues": 15,
             "owner": "osrg",
             "repo": "namazu",
-            "stars": 496,
+            "stars": 495,
             "topics": [
               "flaky-tests",
               "testing-tools"
@@ -1147,7 +1147,7 @@
                 "open_issues": 9,
                 "owner": "alexei-led",
                 "repo": "pumba",
-                "stars": 3188,
+                "stars": 3187,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1221,7 +1221,7 @@
             "open_issues": 43,
             "owner": "Netflix",
             "repo": "SimianArmy",
-            "stars": 7974,
+            "stars": 7972,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:21.442Z"
@@ -1271,7 +1271,7 @@
             "open_issues": 123,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13804,
+            "stars": 13803,
             "topics": [
               "alerting",
               "availability",
@@ -1331,7 +1331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:38:35.819Z",
+    "last_updated": "2026-11-28T14:34:05.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Chaos Engineering resources.",
@@ -1343,7 +1343,7 @@
       "open_issues": 76,
       "owner": "dastergon",
       "repo": "awesome-chaos-engineering",
-      "stars": 6707,
+      "stars": 6706,
       "topics": [
         "awesome",
         "awesome-list",
